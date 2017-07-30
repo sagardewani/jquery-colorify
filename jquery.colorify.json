@@ -1,0 +1,37 @@
+{
+  "name": "colorify",
+  "title": "jQuery Colorify by HetroTech",
+  "description": "A jQuery based plugin to change background color and foregorund color of html elements and to format text within elements to test how your layout will look before implementing.",
+  "keywords": [
+    "jquery-plugins",
+    "colorify",
+	"colorify js",
+	"jquery-colorify-js",
+	"hetrotech-javascript-plugins",
+	"hetrotech-jquery-plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Sagar Dewani",
+    "url": "https://github.com/sagardewani"
+  },
+  "maintainers": [
+    {
+      "name": "Sagar Dewani",
+      "url": "https://github.com/sagardewani"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sagardewani/jquery-colorify/blob/master/LICENSE"
+    }
+  ],
+  "bugs": "https://github.com/sagardewani/jquery-colorify/issues",
+  "homepage": "http://jqueryboilerplate.com",
+  "docs": "https://github.com/sagardewani/jquery-colorify/blob/master/README.md",
+  "download": "https://github.com/sagardewani/jquery-colorify/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=3.0"
+  }
+}

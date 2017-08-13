@@ -13,7 +13,7 @@
 
 ### LinkedIn: [Sagar Dewani](https://linkedin.com/in/sagar-kumar-3420a1b2)
 
-### Updated Document would be available at : [Dset Document] (http://hetrotech.in/projects/dset/index.html#document)
+### Updated Document would be available at : [Dset Document](http://hetrotech.in/projects/dset/index.html#document)
 
 1.  Colorify JS Plugin is a jQuery and Javascript based plugin to
     dynamically set background, foreground, text formatting.

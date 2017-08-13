@@ -13,6 +13,8 @@
 
 ### LinkedIn: [Sagar Dewani](https://linkedin.com/in/sagar-kumar-3420a1b2)
 
+### Updated Document would be available at : [Dset Document] (http://hetrotech.in/projects/dset/index.html#document)
+
 1.  Colorify JS Plugin is a jQuery and Javascript based plugin to
     dynamically set background, foreground, text formatting.
 
@@ -46,10 +48,9 @@
 
 -   Bootstrap 3.7.x
 
--   jQuery UI 1.11.x
-
 -   font-awesome 4.7.x
 
+-	Don't forget to link style.css file comes with this plugin.
 
 - After including all these dependencies insert Colorify plugin javascript file in your project using
 

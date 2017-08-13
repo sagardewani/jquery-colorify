@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .color-container > .color {
     width: 100%;
     text-align: center;
@@ -74,83 +73,5 @@
     overflow-x: hidden;
 }
 .border-blue {
-    border: 3px solid blue;
-=======
-.color-container > .color {
-    width: 100%;
-    text-align: center;
-}
-.color-container > .color > div {
-    width: 38px;
-    height: 38px;
-    margin: 20% auto;
-    border-radius: 100%;
-    -webkit-border-radius=: 100%;
-    -moz-border-radius: 100%;
-}
-.color-container > .color > input {
-    margin: auto;
-    width: 90%;
-    margin-bottom: 10px;
-}
-.color-container > .color > .color-1 {
-    background-color: #111111;
-}
-.color-container > .color > .color-2 {
-    background-color: #CDDC39;
-}
-.color-container > .color > .color-3 {
-    background-color: #009688;
-}
-.color-container > .color > .color-4 {
-    background-color: #ff9800;
-}
-.color-container > .color > .color-5 {
-    background-color: #00bcd4;
-}
-.color-container > .color > .color-6 {
-    background-color: #ffeb3b;
-}
-.color-container > .color > .color-7 {
-    background-color: #9c27b0;
-}
-.color-container > .color > .color-8 {
-    background-color: #3f51b5;
-}
-.color-container > .color > .color-9 {
-    background-color: #e91e63;
-}
-.color-container > .color > .color-10 {
-    background-color: #f44336;
-}
-.set-div input {
-    margin: 4px;
-}
-.pointer {
-    cursor: pointer;
-}
-.source-container {
-    position: fixed;
-    left: 40%;
-    top: 20%;
-}
-.source-container > textarea {
-    columns: 40;
-    rows: 30;
-}
-.color-container {
-    max-height: 768px;
-    height: calc(100% - 2*98px);
-    width: 100px;
-    background-color: #ffffff;
-    position: fixed;
-    margin-top: 88px;
-    z-index: 9999;
-    box-shadow: 1px 2px 8px #000000;
-    overflow-y: auto;
-    overflow-x: hidden;
-}
-.border-blue {
-    border: 3px solid blue;
->>>>>>> d8ae68a3467e1604b8c261b3f8025a53b30734af
+    border: 3px solid blue !important;
 }
